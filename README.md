@@ -5,7 +5,7 @@
 **Название проекта:** Будильник для программистов
 
 ## 2. Изображение будующей иконки приложения
-https://avatars.mds.yandex.net/i?id=a46ace888d71e9957003ff9c7ca1db0b_l-8340358-images-thumbs&n=13
+![i](https://github.com/user-attachments/assets/cc8417d0-ed42-48a6-9a04-be95e3c161eb)
 
 ## 3. Оглавление
 
